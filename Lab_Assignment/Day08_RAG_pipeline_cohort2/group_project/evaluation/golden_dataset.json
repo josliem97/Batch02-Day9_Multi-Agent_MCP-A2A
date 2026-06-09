@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý là gì?",
+    "expected_answer": "Người nào tàng trữ trái phép chất ma tuý mà không nhằm mục đích mua bán, vận chuyển, sản xuất trái phép chất ma tuý thì bị phạt tù từ 01 năm đến 05 năm tùy theo khối lượng và loại ma tuý.",
+    "context": "Điều 249 Bộ luật Hình sự quy định về Tội tàng trữ trái phép chất ma túy."
+  },
+  {
+    "question": "Nghệ sĩ Chu Việt Cường bị bắt vì tội gì?",
+    "expected_answer": "Chu Việt Cường bị bắt vì liên quan đến việc sử dụng ma tuý và nghi vấn tàng trữ trái phép chất ma tuý tại nhà riêng.",
+    "context": "Tin tức về nghệ sĩ Chu Việt Cường bị bắt giữ tại nhà riêng năm 2023."
+  },
+  {
+    "question": "Mức phạt cho tội tổ chức sử dụng trái phép chất ma tuý là bao nhiêu?",
+    "expected_answer": "Phạt tù từ 02 năm đến 07 năm cho mức độ cơ bản, và có thể lên đến tù chung thân hoặc tử hình trong các trường hợp đặc biệt nghiêm trọng.",
+    "context": "Bộ luật Hình sự quy định về tội tổ chức sử dụng chất ma tuý."
+  },
+  {
+    "question": "Cai nghiện bắt buộc áp dụng cho đối tượng nào?",
+    "expected_answer": "Người nghiện ma túy từ đủ 18 tuổi trở lên bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc khi không đăng ký cai nghiện tự nguyện hoặc vi phạm quy định cai nghiện tại gia đình.",
+    "context": "Luật Phòng, chống ma túy 2021."
+  },
+  {
+    "question": "Nghệ sĩ Hữu Tín bị bắt trong trường hợp nào?",
+    "expected_answer": "Nghệ sĩ Hữu Tín bị bắt cùng một số người khác khi đang sử dụng ma tuý tại một căn hộ chung cư ở TP.HCM.",
+    "context": "Tin tức về việc khởi tố diễn viên Hữu Tín về tội tổ chức sử dụng trái phép chất ma túy."
+  },
+  {
+    "question": "Thế nào là sử dụng trái phép chất ma túy?",
+    "expected_answer": "Sử dụng trái phép chất ma túy là hành vi đưa chất ma túy vào cơ thể người dưới bất kỳ hình thức nào mà không được phép của cơ quan có thẩm quyền.",
+    "context": "Định nghĩa theo Luật Phòng, chống ma tuý Việt Nam."
+  },
+  {
+    "question": "Nghệ sĩ Thiên Kim có liên quan gì đến ma tuý không?",
+    "expected_answer": "Tôi không thấy thông tin nào về việc nghệ sĩ Thiên Kim liên quan đến ma tuý trong các tài liệu được cung cấp.",
+    "context": "Kiểm tra thông tin không có trong tài liệu."
+  },
+  {
+    "question": "Luật Phòng chống ma tuý 2021 có hiệu lực từ khi nào?",
+    "expected_answer": "Luật Phòng, chống ma túy năm 2021 có hiệu lực thi hành từ ngày 01 tháng 01 năm 2022.",
+    "context": "Điều khoản thi hành của Luật Phòng, chống ma túy 2021."
+  },
+  {
+    "question": "Hình phạt cho tội mua bán trái phép chất ma tuý?",
+    "expected_answer": "Phạt tù từ 02 năm đến 07 năm. Nếu tàng trữ, vận chuyển, mua bán với số lượng lớn có thể bị phạt tù chung thân hoặc tử hình.",
+    "context": "Điều 251 Bộ luật Hình sự về tội mua bán trái phép chất ma túy."
+  },
+  {
+    "question": "Ca sĩ Chi Dân bị bắt ở đâu?",
+    "expected_answer": "Ca sĩ Chi Dân bị lực lượng chức năng kiểm tra và phát hiện có liên quan đến hành vi sử dụng ma tuý tại TP.HCM vào cuối năm 2024.",
+    "context": "Tin bài về việc ca sĩ Chi Dân bị tạm giữ."
+  },
+  {
+    "question": "Đối với người nghiện ma tuý từ đủ 12 đến dưới 18 tuổi thì xử lý thế nào?",
+    "expected_answer": "Người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi bị đưa vào cơ sở cai nghiện bắt buộc nếu thuộc một trong các trường hợp luật định, nhưng không bị coi là biện pháp xử lý hành chính.",
+    "context": "Luật Phòng, chống ma tuý 2021 quy định về người nghiện dưới 18 tuổi."
+  },
+  {
+    "question": "Tội tàng trữ ma tuý bao nhiêu gam thì bị phạt tù?",
+    "expected_answer": "Tùy loại ma tuý, ví dụ Heroine, Cocaine, Methamphetamine từ 0,1 gam trở lên đã có thể bị truy cứu trách nhiệm hình sự.",
+    "context": "Chi tiết về định lượng để truy cứu trách nhiệm hình sự tội tàng trữ."
+  },
+  {
+    "question": "Nghệ sĩ Lệ Quýnh có bị bắt vì ma tuý không?",
+    "expected_answer": "Tôi không thấy thông tin về nghệ sĩ Lệ Quýnh trong dữ liệu này.",
+    "context": "Negative test case."
+  },
+  {
+    "question": "Cơ quan chuyên trách phòng, chống tội phạm về ma túy bao gồm những ai?",
+    "expected_answer": "Bao gồm các cơ quan chuyên trách thuộc Công an nhân dân, Bộ đội Biên phòng, Cảnh sát biển và Hải quan.",
+    "context": "Luật Phòng, chống ma túy 2021."
+  },
+  {
+    "question": "Rapper nào mới bị khởi tố vì tàng trữ ma tuý?",
+    "expected_answer": "Rapper B-Ray (mẫu) hoặc thông tin tin tức về các rapper trẻ vướng vào vòng lao lý vì tàng trữ và tổ chức sử dụng ma tuý.",
+    "context": "Tin tức văn hóa xã hội."
+  }
+]

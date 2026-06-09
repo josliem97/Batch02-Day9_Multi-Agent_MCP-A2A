@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Environment
+.env
+
+# Data and DB
+data/chroma_db/
+data/landing/
+# Giữ lại các file đã standardized để nộp bài
+# data/standardized/
+
+# IDEs
+.vscode/
+.idea/
+.gemini/
